@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/daeyoul-yang/movie_app_2023/static/css/main.d581fb42.css",
-    "main.js": "/daeyoul-yang/movie_app_2023/static/js/main.72d30f8a.js",
-    "index.html": "/daeyoul-yang/movie_app_2023/index.html",
-    "main.d581fb42.css.map": "/daeyoul-yang/movie_app_2023/static/css/main.d581fb42.css.map",
-    "main.72d30f8a.js.map": "/daeyoul-yang/movie_app_2023/static/js/main.72d30f8a.js.map"
+    "main.css": "/movie_app_2023/static/css/main.d581fb42.css",
+    "main.js": "/movie_app_2023/static/js/main.72d30f8a.js",
+    "index.html": "/movie_app_2023/index.html",
+    "main.d581fb42.css.map": "/movie_app_2023/static/css/main.d581fb42.css.map",
+    "main.72d30f8a.js.map": "/movie_app_2023/static/js/main.72d30f8a.js.map"
   },
   "entrypoints": [
     "static/css/main.d581fb42.css",
